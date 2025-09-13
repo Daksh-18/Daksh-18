@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi I'm passionate about **technology, space, and problem-solving**.  <br>I love building projects that combine **web development** and **AI/ML**, and I’m always curious about how things work — from code to the cosmos. 🚀  <br><br>🌌 Fun fact: I’m as fascinated by **astronomy and physics** as I am by writing code!  
+Hi I'm passionate about **technology, space, and problem-solving**.  <br>I love building projects that combine **web development** and **AI/ML**, and I’m always curious about how things work  from code to the cosmos. 🚀  <br><br>🌌 Fun fact: I’m as fascinated by **astronomy and physics** as I am by writing code!  
 
 
 ## 🌐 Socials:
